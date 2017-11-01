@@ -1,4 +1,4 @@
-package cn.ilimhumar.springbootbook.Controller;
+package cn.ilimhumar.springbootbook.controller;
 
 
 import org.springframework.stereotype.Controller;
